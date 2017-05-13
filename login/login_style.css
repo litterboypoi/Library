@@ -1,0 +1,40 @@
+/*login“≥√Êcss—˘ Ω*/
+html,body{
+	padding:0px;
+	margin:0px;
+	background:#f7f8f8;
+}
+
+.title{
+	height:100px;
+	background:#669fdc;
+}
+
+.content{
+	margin:0 auto;
+	width:400px;
+	height:300px;
+	background:#669fdc;
+	position:relative;
+}
+
+.content label{
+	position:absolute;
+	left:20%;
+	font-size:20px;
+}
+
+.content input{
+	position:absolute;
+	right:20%;
+}
+
+#login{
+	position:absolute;
+	left:37%;
+}
+
+#register{
+	position:absolute;
+	right:20%;
+}
